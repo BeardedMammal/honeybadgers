@@ -1,0 +1,24 @@
+.center {
+	text-align: center;
+	margin: 50px auto;
+}
+
+.logo2 {
+	width: 36%;
+}
+
+#header .content #innerpadding {
+	padding: 1em 0px 2em;
+}
+
+#menu {
+	margin-top: 2.5em;
+}
+
+iframe {
+    overflow: hidden;
+}
+
+.stats {
+	width: 250px;
+}
