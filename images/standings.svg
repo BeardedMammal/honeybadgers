@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="560px" height="211px" viewBox="0 0 560 211" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>Standings</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.878273067" y="0" width="558.603491" height="42.0037209"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="558.603491" height="42.0037209" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="0.878273067" y="0" width="558.603491" height="35.0031008"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="558.603491" height="35.0031008" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="0.878273067" y="0" width="558.603491" height="35.0031008"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="558.603491" height="35.0031008" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="0.878273067" y="0" width="558.603491" height="35.0031008"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="558.603491" height="35.0031008" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <rect id="path-9" x="0.878273067" y="0" width="558.603491" height="35.0031008"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="558.603491" height="35.0031008" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <rect id="path-11" x="0.878273067" y="0" width="558.603491" height="35.0031008"></rect>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="558.603491" height="35.0031008" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Standings">
+            <g id="Top-Row">
+                <use id="Top-BG" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="2" fill="#1A5B8C" xlink:href="#path-1"></use>
+                <text id="Teams" font-family="Arial-BoldMT, Arial" font-size="25.1224828" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="16.0605956" y="28.6004961">Teams</tspan>
+                </text>
+                <text id="W" font-family="Arial-BoldMT, Arial" font-size="25.1224828" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="307.246346" y="28.6004961">W</tspan>
+                </text>
+                <text id="L" font-family="Arial-BoldMT, Arial" font-size="25.1224828" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="381.254774" y="28.6004961">L</tspan>
+                </text>
+                <text id="GB" font-family="Arial-BoldMT, Arial" font-size="25.1224828" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="439.911255" y="28.6004961">GB</tspan>
+                </text>
+                <text id="STRK" font-family="Arial-BoldMT, Arial" font-size="19.5397088" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="500.58686" y="26.4007442">STRK</tspan>
+                </text>
+            </g>
+            <g id="Knights-of-columbus" transform="translate(0.000000, 40.603597)">
+                <use id="HB" stroke="#FFFFFF" mask="url(#mask-4)" stroke-width="2" xlink:href="#path-3"></use>
+                <text id="Knights-of-Columbus" font-family="Arial-BoldMT, Arial" font-size="22.3310958" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.5966403" y="25.6004961">Knights of Columbus</tspan>
+                </text>
+                <text id="9" font-family="Arial-BoldMT, Arial" font-size="25.1224828" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="312.116281" y="25.8002481">9</tspan>
+                </text>
+                <text id="1" font-family="Arial-BoldMT, Arial" font-size="25.1224828" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="381.941717" y="25.8002481">1</tspan>
+                </text>
+                <text id="1-copy" font-family="Arial-BoldMT, Arial" font-size="25.1224828" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="451.767153" y="25.8002481">1</tspan>
+                </text>
+                <text id="W8" font-family="Arial-BoldMT, Arial" font-size="25.1224828" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="508.340183" y="25.8002481">W8</tspan>
+                </text>
+            </g>
+            <g id="New-Life" transform="translate(0.000000, 74.206574)">
+                <use id="KC" stroke="#FFFFFF" mask="url(#mask-6)" stroke-width="2" xlink:href="#path-5"></use>
+                <text font-family="Arial-BoldMT, Arial" font-size="22.3310958" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.535701" y="25.6004961">New Life</tspan>
+                </text>
+                <text id="6" font-family="Arial-BoldMT, Arial" font-size="25.1224828" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="312.116281" y="27.2003721">6</tspan>
+                </text>
+                <text id="4" font-family="Arial-BoldMT, Arial" font-size="25.1224828" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="381.941717" y="27.2003721">4</tspan>
+                </text>
+                <text id="3" font-family="Arial-BoldMT, Arial" font-size="25.1224828" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="451.767153" y="27.2003721">3</tspan>
+                </text>
+                <text id="L2" font-family="Arial-BoldMT, Arial" font-size="25.1224828" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="513.221429" y="27.2003721">L2</tspan>
+                </text>
+            </g>
+            <g id="Honeybadgers" transform="translate(0.000000, 107.809550)">
+                <use id="NL" stroke="#FFFFFF" mask="url(#mask-8)" stroke-width="2" xlink:href="#path-7"></use>
+                <text font-family="Arial-BoldMT, Arial" font-size="22.3310958" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="16.0069616" y="24.2003721">Honeybadgers</tspan>
+                </text>
+                <text id="5" font-family="Arial-BoldMT, Arial" font-size="25.1224828" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="312.116281" y="27.2003721">5</tspan>
+                </text>
+                <text id="5" font-family="Arial-BoldMT, Arial" font-size="25.1224828" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="381.941717" y="27.2003721">5</tspan>
+                </text>
+                <text id="4" font-family="Arial-BoldMT, Arial" font-size="25.1224828" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="451.767153" y="27.2003721">4</tspan>
+                </text>
+                <text id="W1" font-family="Arial-BoldMT, Arial" font-size="25.1224828" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="508.340183" y="27.2003721">W1</tspan>
+                </text>
+            </g>
+            <g id="Wildwood" transform="translate(0.000000, 141.412527)">
+                <use id="TC" stroke="#FFFFFF" mask="url(#mask-10)" stroke-width="2" xlink:href="#path-9"></use>
+                <text id="Wildwood-Visitors" font-family="Arial-BoldMT, Arial" font-size="22.3310958" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.6526882" y="25.6004961">Wildwood Visitors</tspan>
+                </text>
+                <text id="5" font-family="Arial-BoldMT, Arial" font-size="25.1224828" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="312.116281" y="28.6004961">5</tspan>
+                </text>
+                <text id="5" font-family="Arial-BoldMT, Arial" font-size="25.1224828" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="381.941717" y="28.6004961">5</tspan>
+                </text>
+                <text id="4" font-family="Arial-BoldMT, Arial" font-size="25.1224828" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="451.767153" y="28.6004961">4</tspan>
+                </text>
+                <text id="W2" font-family="Arial-BoldMT, Arial" font-size="25.1224828" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="508.340183" y="28.6004961">W2</tspan>
+                </text>
+            </g>
+            <g id="Truth-Church" transform="translate(0.000000, 175.015504)">
+                <use id="WW" stroke="#FFFFFF" mask="url(#mask-12)" stroke-width="2" xlink:href="#path-11"></use>
+                <text font-family="Arial-BoldMT, Arial" font-size="22.3310958" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.877491" y="25.6004961">Truth Church</tspan>
+                </text>
+                <text id="0" font-family="Arial-BoldMT, Arial" font-size="25.1224828" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="312.116281" y="28.6004961">0</tspan>
+                </text>
+                <text id="9" font-family="Arial-BoldMT, Arial" font-size="25.1224828" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="381.941717" y="28.6004961">9</tspan>
+                </text>
+                <text id="9-copy" font-family="Arial-BoldMT, Arial" font-size="25.1224828" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="451.767153" y="28.6004961">9</tspan>
+                </text>
+                <text id="L9" font-family="Arial-BoldMT, Arial" font-size="25.1224828" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="513.221429" y="28.6004961">L9</tspan>
+                </text>
+            </g>
+            <g id="Lines" transform="translate(282.094763, 1.400124)" stroke="#FFFFFF" stroke-linecap="square">
+                <path d="M2.09476309,0.700062016 L2.09476309,206.518295" id="Line-Copy"></path>
+                <path d="M71.9201995,0.700062016 L71.9201995,206.518295" id="Line-Copy-2"></path>
+                <path d="M141.745636,0.700062016 L141.745636,206.518295" id="Line-Copy-3"></path>
+                <path d="M211.571072,0.700062016 L211.571072,206.518295" id="Line-Copy-4"></path>
+            </g>
+        </g>
+    </g>
+</svg>
