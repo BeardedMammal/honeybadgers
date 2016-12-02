@@ -22,3 +22,29 @@ iframe {
 .stats {
 	width: 250px;
 }
+
+.mybtn {
+	box-shadow: inset 0 0 0 2px #1B6399;
+	font-weight: bold;
+	padding: 0 2.5em 0 2.5em;
+	width: 100%;
+	line-height: 36px;
+}
+
+.mybtn:hover {
+	box-shadow: inset 0 0 0 2px #FFF;
+	background: #FFF;
+	color: #1B6399 !important;
+}
+
+button i {
+	font-size: 20px;
+	margin-left: 10px;
+	display: inline;
+	line-height: 36px;
+}
+
+button p {
+	display: inline;
+	line-height: 36px;
+}
