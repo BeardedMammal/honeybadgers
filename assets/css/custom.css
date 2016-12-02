@@ -28,7 +28,7 @@ iframe {
 	font-weight: bold;
 	padding: 0 2.5em 0 2.5em;
 	width: 100%;
-	line-height: 36px;
+
 }
 
 .mybtn:hover {
@@ -38,13 +38,18 @@ iframe {
 }
 
 button i {
-	font-size: 20px;
-	margin-left: 10px;
+	font-size: 19px;
+	margin: 0px 10px;
 	display: inline;
-	line-height: 36px;
 }
 
 button p {
 	display: inline;
 	line-height: 36px;
+}
+
+.fallsixteen {
+	width: 100%;
+	margin: 0px auto;
+	align-content: center;
 }
