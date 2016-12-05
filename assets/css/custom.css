@@ -1,0 +1,54 @@
+.center {
+	text-align: center;
+	margin: 50px auto;
+}
+
+.logo2 {
+	width: 36%;
+}
+
+#header .content #innerpadding {
+	padding: 1em 0px 2em;
+}
+
+#menu {
+	margin-top: 2.5em;
+}
+
+iframe {
+    overflow: hidden;
+}
+
+.stats {
+	width: 250px;
+}
+
+.mybtn {
+	box-shadow: inset 0 0 0 2px #1B6399;
+	font-weight: bold;
+	padding: 0 2.5em 0 2.5em;
+	width: 100%;
+
+}
+
+.mybtn:hover {
+	box-shadow: inset 0 0 0 2px #FFF;
+	background: #FFF;
+	color: #1B6399 !important;
+}
+
+button i {
+	font-size: 19px;
+	margin: 0px 10px;
+	display: inline;
+}
+
+button p {
+	display: inline;
+	line-height: 36px;
+}
+
+.fallsixteen {
+	width: 100%;
+	margin: 0px auto;
+}
