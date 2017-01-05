@@ -1,337 +1,337 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="571px" height="675px" viewBox="0 0 571 675" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="559px" height="664px" viewBox="0 0 559 664" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
-    <title>Group</title>
+    <title>Games</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <rect id="path-1" x="0" y="0" width="278" height="100" rx="5"></rect>
-        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="278" height="100" fill="white">
+        <rect id="path-1" x="0" y="0" width="272.158486" height="98.0740741" rx="5"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="272.158486" height="98.0740741" fill="white">
             <use xlink:href="#path-1"></use>
         </mask>
-        <rect id="path-3" x="0" y="0" width="278" height="100" rx="5"></rect>
-        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="278" height="100" fill="white">
+        <rect id="path-3" x="0" y="0" width="272.158486" height="98.0740741" rx="5"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="272.158486" height="98.0740741" fill="white">
             <use xlink:href="#path-3"></use>
         </mask>
-        <rect id="path-5" x="0" y="0" width="278" height="100" rx="5"></rect>
-        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="278" height="100" fill="white">
+        <rect id="path-5" x="0" y="0" width="272.158486" height="98.0740741" rx="5"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="272.158486" height="98.0740741" fill="white">
             <use xlink:href="#path-5"></use>
         </mask>
-        <rect id="path-7" x="0" y="0" width="278" height="100" rx="5"></rect>
-        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="278" height="100" fill="white">
+        <rect id="path-7" x="0" y="0" width="272.158486" height="98.0740741" rx="5"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="272.158486" height="98.0740741" fill="white">
             <use xlink:href="#path-7"></use>
         </mask>
-        <rect id="path-9" x="0" y="0" width="278" height="100" rx="5"></rect>
-        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="278" height="100" fill="white">
+        <rect id="path-9" x="0" y="0" width="272.158486" height="98.0740741" rx="5"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="272.158486" height="98.0740741" fill="white">
             <use xlink:href="#path-9"></use>
         </mask>
-        <rect id="path-11" x="0" y="0" width="278" height="100" rx="5"></rect>
-        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="278" height="100" fill="white">
+        <rect id="path-11" x="0" y="0" width="272.158486" height="98.0740741" rx="5"></rect>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="272.158486" height="98.0740741" fill="white">
             <use xlink:href="#path-11"></use>
         </mask>
-        <rect id="path-13" x="0" y="0" width="278" height="100" rx="5"></rect>
-        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="278" height="100" fill="white">
+        <rect id="path-13" x="0" y="0" width="272.158486" height="98.0740741" rx="5"></rect>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="272.158486" height="98.0740741" fill="white">
             <use xlink:href="#path-13"></use>
         </mask>
-        <rect id="path-15" x="0" y="0" width="278" height="100" rx="5"></rect>
-        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="278" height="100" fill="white">
+        <rect id="path-15" x="0" y="0" width="272.158486" height="98.0740741" rx="5"></rect>
+        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="272.158486" height="98.0740741" fill="white">
             <use xlink:href="#path-15"></use>
         </mask>
-        <rect id="path-17" x="0" y="0" width="278" height="100" rx="5"></rect>
-        <mask id="mask-18" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="278" height="100" fill="white">
+        <rect id="path-17" x="0" y="0" width="272.158486" height="98.0740741" rx="5"></rect>
+        <mask id="mask-18" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="272.158486" height="98.0740741" fill="white">
             <use xlink:href="#path-17"></use>
         </mask>
-        <rect id="path-19" x="0" y="0" width="278" height="100" rx="5"></rect>
-        <mask id="mask-20" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="278" height="100" fill="white">
+        <rect id="path-19" x="0" y="0" width="272.158486" height="98.0740741" rx="5"></rect>
+        <mask id="mask-20" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="272.158486" height="98.0740741" fill="white">
             <use xlink:href="#path-19"></use>
         </mask>
-        <rect id="path-21" x="0" y="0" width="278" height="100" rx="5"></rect>
-        <mask id="mask-22" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="278" height="100" fill="white">
+        <rect id="path-21" x="0" y="0" width="272.158486" height="98.0740741" rx="5"></rect>
+        <mask id="mask-22" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="272.158486" height="98.0740741" fill="white">
             <use xlink:href="#path-21"></use>
         </mask>
-        <rect id="path-23" x="0" y="0" width="278" height="100" rx="5"></rect>
-        <mask id="mask-24" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="278" height="100" fill="white">
+        <rect id="path-23" x="0" y="0" width="272.158486" height="98.0740741" rx="5"></rect>
+        <mask id="mask-24" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="272.158486" height="98.0740741" fill="white">
             <use xlink:href="#path-23"></use>
         </mask>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group">
+        <g id="Games" transform="translate(0.000000, 1.000000)">
             <g id="Game-1">
-                <use id="Rectangle-1" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
-                <polygon id="Triangle-1" fill="#F6A623" transform="translate(199.500000, 27.467857) rotate(-90.000000) translate(-199.500000, -27.467857) " points="199.5 22.9678571 203.967857 31.9678571 195.032143 31.9678571"></polygon>
-                <path d="M204.280357,0.5 L204.280357,99.5" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
-                <text id="Wildwood-Visitors" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="16.1642857" y="33">Wildwood Visitors</tspan>
+                <use id="Rectangle-1" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="2" fill="#182127" xlink:href="#path-1"></use>
+                <polygon id="Triangle-1" fill="#F6A623" transform="translate(195.307978, 26.938847) rotate(-90.000000) translate(-195.307978, -26.938847) " points="195.307978 22.5255132 199.681954 31.3521799 190.934003 31.3521799"></polygon>
+                <path d="M199.987888,0.49037037 L199.987888,97.5837037" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                <text id="Wildwood-Visitors" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.8246314" y="32.6918519">Wildwood Visitors</tspan>
                 </text>
-                <text id="10" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="211.933105" y="33">10</tspan>
+                <text id="10" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="207.479831" y="32.6918519">10</tspan>
                 </text>
-                <text id="7" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="217.216553" y="80">7</tspan>
+                <text id="7" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="212.652259" y="78.7866667">7</tspan>
                 </text>
-                <text id="Honeybadgers" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="16.1642857" y="80">Honeybadgers</tspan>
+                <text id="Honeybadgers" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.8246314" y="78.7866667">Honeybadgers</tspan>
                 </text>
-                <text id="Final" font-family="Arial-BoldMT, Arial" font-size="15" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="237.498779" y="54">Final</tspan>
+                <text id="Final" font-family="Arial-BoldMT, Arial" font-size="14.6848104" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="232.508303" y="52.2296296">Final</tspan>
                 </text>
-                <text id="9/22-7pm" font-family="Arial-BoldMT, Arial" font-size="10" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="230.098633" y="97">9/22 7pm</tspan>
-                </text>
-            </g>
-            <g id="Game-1" transform="translate(293.000000, 575.000000)">
-                <use id="Rectangle-1" stroke="#FFFFFF" mask="url(#mask-4)" stroke-width="2" xlink:href="#path-3"></use>
-                <polygon id="Triangle-1" fill="#F6A623" transform="translate(199.500000, 75.467857) rotate(-90.000000) translate(-199.500000, -75.467857) " points="199.5 70.9678571 203.967857 79.9678571 195.032143 79.9678571"></polygon>
-                <path d="M204.280357,0.5 L204.280357,99.5" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
-                <text id="Truth-Church" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="16.1642857" y="33">Truth Church</tspan>
-                </text>
-                <text id="L" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="216.697021" y="33">L</tspan>
-                </text>
-                <text id="W" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="213.533447" y="80">W</tspan>
-                </text>
-                <text id="Honeybadgers" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="16.1642857" y="80">Honeybadgers</tspan>
-                </text>
-                <text id="Final" font-family="Arial-BoldMT, Arial" font-size="15" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="237.498779" y="54">Final</tspan>
-                </text>
-                <text id="(forfeit)" font-family="Arial-BoldMT, Arial" font-size="11" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="235.755371" y="68">(forfeit)</tspan>
-                </text>
-                <text id="11/17-8pm" font-family="Arial-BoldMT, Arial" font-size="10" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="227.317871" y="97">11/17 8pm</tspan>
+                <text id="9/22-7pm" font-family="Arial-BoldMT, Arial" font-size="9.7898736" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="225.263653" y="95.3051852">9/22 7pm</tspan>
                 </text>
             </g>
-            <g id="Game-1" transform="translate(293.000000, 460.000000)">
-                <use id="Rectangle-1" stroke="#FFFFFF" mask="url(#mask-6)" stroke-width="2" xlink:href="#path-5"></use>
-                <polygon id="Triangle-1" fill="#F6A623" transform="translate(199.500000, 75.467857) rotate(-90.000000) translate(-199.500000, -75.467857) " points="199.5 70.9678571 203.967857 79.9678571 195.032143 79.9678571"></polygon>
-                <path d="M204.280357,0.5 L204.280357,99.5" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
-                <text id="Truth-Church" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="16.1642857" y="33">Truth Church</tspan>
+            <g id="Game-1" transform="translate(286.843296, 563.925926)">
+                <use id="Rectangle-1" stroke="#FFFFFF" mask="url(#mask-4)" stroke-width="2" fill="#182127" xlink:href="#path-3"></use>
+                <polygon id="Triangle-1" fill="#F6A623" transform="translate(195.307978, 74.014402) rotate(-90.000000) translate(-195.307978, -74.014402) " points="195.307978 69.6010688 199.681954 78.4277354 190.934003 78.4277354"></polygon>
+                <path d="M199.987888,0.49037037 L199.987888,97.5837037" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                <text id="Truth-Church" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.8246314" y="32.6918519">Truth Church</tspan>
                 </text>
-                <text id="2" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="217.216553" y="33">2</tspan>
+                <text id="L" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="212.143645" y="32.6918519">L</tspan>
                 </text>
-                <text id="16" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="211.933105" y="80">16</tspan>
+                <text id="W" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="209.046546" y="78.7866667">W</tspan>
                 </text>
-                <text id="Honeybadgers" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="16.1642857" y="80">Honeybadgers</tspan>
+                <text id="Honeybadgers" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.8246314" y="78.7866667">Honeybadgers</tspan>
                 </text>
-                <text id="Final" font-family="Arial-BoldMT, Arial" font-size="15" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="237.498779" y="54">Final</tspan>
+                <text id="Final" font-family="Arial-BoldMT, Arial" font-size="14.6848104" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="232.508303" y="52.2296296">Final</tspan>
                 </text>
-                <text id="11/10-8pm" font-family="Arial-BoldMT, Arial" font-size="10" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="227.317871" y="97">11/10 8pm</tspan>
+                <text id="(forfeit)" font-family="Arial-BoldMT, Arial" font-size="10.768861" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="230.801528" y="66.882963">(forfeit)</tspan>
                 </text>
-            </g>
-            <g id="Game-1" transform="translate(293.000000, 345.000000)">
-                <use id="Rectangle-1" stroke="#FFFFFF" mask="url(#mask-8)" stroke-width="2" xlink:href="#path-7"></use>
-                <polygon id="Triangle-1" fill="#F6A623" transform="translate(199.500000, 27.467857) rotate(-90.000000) translate(-199.500000, -27.467857) " points="199.5 22.9678571 203.967857 31.9678571 195.032143 31.9678571"></polygon>
-                <path d="M204.280357,0.5 L204.280357,99.5" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
-                <text id="New-Life" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="16.1642857" y="33">New Life</tspan>
-                </text>
-                <text id="15" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="211.933105" y="33">15</tspan>
-                </text>
-                <text id="9" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="217.216553" y="80">9</tspan>
-                </text>
-                <text id="Honeybadgers" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="16.1642857" y="80">Honeybadgers</tspan>
-                </text>
-                <text id="Final" font-family="Arial-BoldMT, Arial" font-size="15" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="237.498779" y="54">Final</tspan>
-                </text>
-                <text id="10/27-9pm" font-family="Arial-BoldMT, Arial" font-size="10" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="227.317871" y="97">10/27 9pm</tspan>
+                <text id="11/17-8pm" font-family="Arial-BoldMT, Arial" font-size="9.7898736" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="222.541322" y="95.3051852">11/17 8pm</tspan>
                 </text>
             </g>
-            <g id="Game-1" transform="translate(293.000000, 230.000000)">
-                <use id="Rectangle-1" stroke="#FFFFFF" mask="url(#mask-10)" stroke-width="2" xlink:href="#path-9"></use>
-                <polygon id="Triangle-1" fill="#F6A623" transform="translate(199.500000, 27.467857) rotate(-90.000000) translate(-199.500000, -27.467857) " points="199.5 22.9678571 203.967857 31.9678571 195.032143 31.9678571"></polygon>
-                <path d="M204.280357,0.5 L204.280357,99.5" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
-                <text id="Honeybadgers" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="16.1642857" y="33">Honeybadgers</tspan>
+            <g id="Game-1" transform="translate(286.843296, 451.140741)">
+                <use id="Rectangle-1" stroke="#FFFFFF" mask="url(#mask-6)" stroke-width="2" fill="#182127" xlink:href="#path-5"></use>
+                <polygon id="Triangle-1" fill="#F6A623" transform="translate(195.307978, 74.014402) rotate(-90.000000) translate(-195.307978, -74.014402) " points="195.307978 69.6010688 199.681954 78.4277354 190.934003 78.4277354"></polygon>
+                <path d="M199.987888,0.49037037 L199.987888,97.5837037" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                <text id="Truth-Church" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.8246314" y="32.6918519">Truth Church</tspan>
                 </text>
-                <text id="15" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="211.933105" y="33">15</tspan>
+                <text id="2" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="212.652259" y="32.6918519">2</tspan>
                 </text>
-                <text id="2" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="217.216553" y="80">2</tspan>
+                <text id="16" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="207.479831" y="78.7866667">16</tspan>
                 </text>
-                <text id="New-Life" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="16.1642857" y="80">New Life</tspan>
+                <text id="Honeybadgers" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.8246314" y="78.7866667">Honeybadgers</tspan>
                 </text>
-                <text id="Final" font-family="Arial-BoldMT, Arial" font-size="15" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="237.498779" y="54">Final</tspan>
+                <text id="Final" font-family="Arial-BoldMT, Arial" font-size="14.6848104" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="232.508303" y="52.2296296">Final</tspan>
                 </text>
-                <text id="10/20-8pm" font-family="Arial-BoldMT, Arial" font-size="10" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="227.317871" y="97">10/20 8pm</tspan>
-                </text>
-            </g>
-            <g id="Game-1" transform="translate(293.000000, 115.000000)">
-                <use id="Rectangle-1" stroke="#FFFFFF" mask="url(#mask-12)" stroke-width="2" xlink:href="#path-11"></use>
-                <polygon id="Triangle-1" fill="#F6A623" transform="translate(199.500000, 75.467857) rotate(-90.000000) translate(-199.500000, -75.467857) " points="199.5 70.9678571 203.967857 79.9678571 195.032143 79.9678571"></polygon>
-                <path d="M204.280357,0.5 L204.280357,99.5" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
-                <text id="Truth-Church" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="16.1642857" y="33">Truth Church</tspan>
-                </text>
-                <text id="5" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="217.216553" y="33">5</tspan>
-                </text>
-                <text id="6" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="217.216553" y="80">6</tspan>
-                </text>
-                <text id="Honeybadgers" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="16.1642857" y="80">Honeybadgers</tspan>
-                </text>
-                <text id="Final" font-family="Arial-BoldMT, Arial" font-size="15" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="237.498779" y="54">Final</tspan>
-                </text>
-                <text id="9/29-8pm" font-family="Arial-BoldMT, Arial" font-size="10" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="230.098633" y="97">9/29 8pm</tspan>
+                <text id="11/10-8pm" font-family="Arial-BoldMT, Arial" font-size="9.7898736" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="222.541322" y="95.3051852">11/10 8pm</tspan>
                 </text>
             </g>
-            <g id="Game-1" transform="translate(293.000000, 0.000000)">
-                <use id="Rectangle-1" stroke="#FFFFFF" mask="url(#mask-14)" stroke-width="2" xlink:href="#path-13"></use>
-                <polygon id="Triangle-1" fill="#F6A623" transform="translate(199.500000, 27.467857) rotate(-90.000000) translate(-199.500000, -27.467857) " points="199.5 22.9678571 203.967857 31.9678571 195.032143 31.9678571"></polygon>
-                <path d="M204.280357,0.5 L204.280357,99.5" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
-                <text id="New-Life" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="16.1642857" y="33">New Life</tspan>
+            <g id="Game-1" transform="translate(286.843296, 338.355556)">
+                <use id="Rectangle-1" stroke="#FFFFFF" mask="url(#mask-8)" stroke-width="2" fill="#182127" xlink:href="#path-7"></use>
+                <polygon id="Triangle-1" fill="#F6A623" transform="translate(195.307978, 26.938847) rotate(-90.000000) translate(-195.307978, -26.938847) " points="195.307978 22.5255132 199.681954 31.3521799 190.934003 31.3521799"></polygon>
+                <path d="M199.987888,0.49037037 L199.987888,97.5837037" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                <text id="New-Life" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.8246314" y="32.6918519">New Life</tspan>
                 </text>
-                <text id="14" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="211.933105" y="33">14</tspan>
+                <text id="15" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="207.479831" y="32.6918519">15</tspan>
                 </text>
-                <text id="10" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="211.933105" y="80">10</tspan>
+                <text id="9" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="212.652259" y="78.7866667">9</tspan>
                 </text>
-                <text id="Honeybadgers" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="16.1642857" y="80">Honeybadgers</tspan>
+                <text id="Honeybadgers" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.8246314" y="78.7866667">Honeybadgers</tspan>
                 </text>
-                <text id="Final" font-family="Arial-BoldMT, Arial" font-size="15" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="237.498779" y="54">Final</tspan>
+                <text id="Final" font-family="Arial-BoldMT, Arial" font-size="14.6848104" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="232.508303" y="52.2296296">Final</tspan>
                 </text>
-                <text id="9/22-8pm" font-family="Arial-BoldMT, Arial" font-size="10" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="230.098633" y="97">9/22 8pm</tspan>
-                </text>
-            </g>
-            <g id="Game-1" transform="translate(0.000000, 575.000000)">
-                <use id="Rectangle-1" stroke="#FFFFFF" mask="url(#mask-16)" stroke-width="2" xlink:href="#path-15"></use>
-                <polygon id="Triangle-1" fill="#F6A623" transform="translate(199.500000, 75.467857) rotate(-90.000000) translate(-199.500000, -75.467857) " points="199.5 70.9678571 203.967857 79.9678571 195.032143 79.9678571"></polygon>
-                <path d="M204.280357,0.5 L204.280357,99.5" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
-                <text id="Honeybadgers" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="16.1642857" y="33">Honeybadgers</tspan>
-                </text>
-                <text id="3" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="217.216553" y="33">3</tspan>
-                </text>
-                <text id="15" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="211.933105" y="80">15</tspan>
-                </text>
-                <text id="Knights-of-Columus" font-family="Arial-BoldMT, Arial" font-size="18" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="16.1642857" y="80">Knights of Columus</tspan>
-                </text>
-                <text id="Final" font-family="Arial-BoldMT, Arial" font-size="15" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="237.498779" y="54">Final</tspan>
-                </text>
-                <text id="11/17-7pm" font-family="Arial-BoldMT, Arial" font-size="10" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="227.317871" y="97">11/17 7pm</tspan>
+                <text id="10/27-9pm" font-family="Arial-BoldMT, Arial" font-size="9.7898736" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="222.541322" y="95.3051852">10/27 9pm</tspan>
                 </text>
             </g>
-            <g id="Game-1" transform="translate(0.000000, 460.000000)">
-                <use id="Rectangle-1" stroke="#FFFFFF" mask="url(#mask-18)" stroke-width="2" xlink:href="#path-17"></use>
-                <polygon id="Triangle-1" fill="#F6A623" transform="translate(199.500000, 75.467857) rotate(-90.000000) translate(-199.500000, -75.467857) " points="199.5 70.9678571 203.967857 79.9678571 195.032143 79.9678571"></polygon>
-                <path d="M204.280357,0.5 L204.280357,99.5" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
-                <text id="Honeybadgers" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="16.1642857" y="33">Honeybadgers</tspan>
+            <g id="Game-1" transform="translate(286.843296, 225.570370)">
+                <use id="Rectangle-1" stroke="#FFFFFF" mask="url(#mask-10)" stroke-width="2" fill="#182127" xlink:href="#path-9"></use>
+                <polygon id="Triangle-1" fill="#F6A623" transform="translate(195.307978, 26.938847) rotate(-90.000000) translate(-195.307978, -26.938847) " points="195.307978 22.5255132 199.681954 31.3521799 190.934003 31.3521799"></polygon>
+                <path d="M199.987888,0.49037037 L199.987888,97.5837037" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                <text id="Honeybadgers" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.8246314" y="32.6918519">Honeybadgers</tspan>
                 </text>
-                <text id="19" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="211.933105" y="33">19</tspan>
+                <text id="15" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="207.479831" y="32.6918519">15</tspan>
                 </text>
-                <text id="20" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="211.933105" y="80">20</tspan>
+                <text id="2" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="212.652259" y="78.7866667">2</tspan>
                 </text>
-                <text id="Knights-of-Columbus" font-family="Arial-BoldMT, Arial" font-size="17" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="16.1642857" y="80">Knights of Columbus</tspan>
+                <text id="New-Life" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.8246314" y="78.7866667">New Life</tspan>
                 </text>
-                <text id="Final" font-family="Arial-BoldMT, Arial" font-size="15" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="237.498779" y="54">Final</tspan>
+                <text id="Final" font-family="Arial-BoldMT, Arial" font-size="14.6848104" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="232.508303" y="52.2296296">Final</tspan>
                 </text>
-                <text id="11/10-7pm" font-family="Arial-BoldMT, Arial" font-size="10" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="227.317871" y="97">11/10 7pm</tspan>
-                </text>
-            </g>
-            <g id="Game-1" transform="translate(0.000000, 345.000000)">
-                <use id="Rectangle-1" stroke="#FFFFFF" mask="url(#mask-20)" stroke-width="2" xlink:href="#path-19"></use>
-                <polygon id="Triangle-1" fill="#F6A623" transform="translate(199.500000, 75.467857) rotate(-90.000000) translate(-199.500000, -75.467857) " points="199.5 70.9678571 203.967857 79.9678571 195.032143 79.9678571"></polygon>
-                <path d="M204.280357,0.5 L204.280357,99.5" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
-                <text id="Wildwood-Visitors" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="16.1642857" y="33">Wildwood Visitors</tspan>
-                </text>
-                <text id="9" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="217.216553" y="33">9</tspan>
-                </text>
-                <text id="13" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="211.933105" y="80">13</tspan>
-                </text>
-                <text id="Honeybadgers" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="16.1642857" y="80">Honeybadgers</tspan>
-                </text>
-                <text id="Final" font-family="Arial-BoldMT, Arial" font-size="15" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="237.498779" y="54">Final</tspan>
-                </text>
-                <text id="10/27-7pm" font-family="Arial-BoldMT, Arial" font-size="10" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="227.317871" y="97">10/27 7pm</tspan>
+                <text id="10/20-8pm" font-family="Arial-BoldMT, Arial" font-size="9.7898736" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="222.541322" y="95.3051852">10/20 8pm</tspan>
                 </text>
             </g>
-            <g id="Game-1" transform="translate(0.000000, 230.000000)">
-                <use id="Rectangle-1" stroke="#FFFFFF" mask="url(#mask-22)" stroke-width="2" xlink:href="#path-21"></use>
-                <polygon id="Triangle-1" fill="#F6A623" transform="translate(199.500000, 75.467857) rotate(-90.000000) translate(-199.500000, -75.467857) " points="199.5 70.9678571 203.967857 79.9678571 195.032143 79.9678571"></polygon>
-                <path d="M204.280357,0.5 L204.280357,99.5" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
-                <text id="Wildwood-Visitors" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="16.1642857" y="33">Wildwood Visitors</tspan>
+            <g id="Game-1" transform="translate(286.843296, 112.785185)">
+                <use id="Rectangle-1" stroke="#FFFFFF" mask="url(#mask-12)" stroke-width="2" fill="#182127" xlink:href="#path-11"></use>
+                <polygon id="Triangle-1" fill="#F6A623" transform="translate(195.307978, 74.014402) rotate(-90.000000) translate(-195.307978, -74.014402) " points="195.307978 69.6010688 199.681954 78.4277354 190.934003 78.4277354"></polygon>
+                <path d="M199.987888,0.49037037 L199.987888,97.5837037" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                <text id="Truth-Church" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.8246314" y="32.6918519">Truth Church</tspan>
                 </text>
-                <text id="10" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="211.933105" y="33">10</tspan>
+                <text id="5" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="212.652259" y="32.6918519">5</tspan>
                 </text>
-                <text id="14" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="211.933105" y="80">14</tspan>
+                <text id="6" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="212.652259" y="78.7866667">6</tspan>
                 </text>
-                <text id="Honeybadgers" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="16.1642857" y="80">Honeybadgers</tspan>
+                <text id="Honeybadgers" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.8246314" y="78.7866667">Honeybadgers</tspan>
                 </text>
-                <text id="Final" font-family="Arial-BoldMT, Arial" font-size="15" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="237.498779" y="54">Final</tspan>
+                <text id="Final" font-family="Arial-BoldMT, Arial" font-size="14.6848104" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="232.508303" y="52.2296296">Final</tspan>
                 </text>
-                <text id="10/20-7pm" font-family="Arial-BoldMT, Arial" font-size="10" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="227.317871" y="97">10/20 7pm</tspan>
+                <text id="9/29-8pm" font-family="Arial-BoldMT, Arial" font-size="9.7898736" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="225.263653" y="95.3051852">9/29 8pm</tspan>
                 </text>
             </g>
-            <g id="Game-1" transform="translate(0.000000, 115.000000)">
-                <use id="Rectangle-1" stroke="#FFFFFF" mask="url(#mask-24)" stroke-width="2" xlink:href="#path-23"></use>
-                <polygon id="Triangle-1" fill="#F6A623" transform="translate(199.500000, 27.467857) rotate(-90.000000) translate(-199.500000, -27.467857) " points="199.5 22.9678571 203.967857 31.9678571 195.032143 31.9678571"></polygon>
-                <path d="M204.280357,0.5 L204.280357,99.5" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
-                <text id="Knights-of-Columbus" font-family="Arial-BoldMT, Arial" font-size="17" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="16.1642857" y="33">Knights of Columbus</tspan>
+            <g id="Game-1" transform="translate(286.843296, 0.000000)">
+                <use id="Rectangle-1" stroke="#FFFFFF" mask="url(#mask-14)" stroke-width="2" fill="#182127" xlink:href="#path-13"></use>
+                <polygon id="Triangle-1" fill="#F6A623" transform="translate(195.307978, 26.938847) rotate(-90.000000) translate(-195.307978, -26.938847) " points="195.307978 22.5255132 199.681954 31.3521799 190.934003 31.3521799"></polygon>
+                <path d="M199.987888,0.49037037 L199.987888,97.5837037" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                <text id="New-Life" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.8246314" y="32.6918519">New Life</tspan>
                 </text>
-                <text id="22" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="211.933105" y="33">22</tspan>
+                <text id="14" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="207.479831" y="32.6918519">14</tspan>
                 </text>
-                <text id="8" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="217.216553" y="80">8</tspan>
+                <text id="10" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="207.479831" y="78.7866667">10</tspan>
                 </text>
-                <text id="Honeybadgers" font-family="Arial-BoldMT, Arial" font-size="19" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="16.1642857" y="80">Honeybadgers</tspan>
+                <text id="Honeybadgers" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.8246314" y="78.7866667">Honeybadgers</tspan>
                 </text>
-                <text id="Final" font-family="Arial-BoldMT, Arial" font-size="15" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="237.498779" y="54">Final</tspan>
+                <text id="Final" font-family="Arial-BoldMT, Arial" font-size="14.6848104" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="232.508303" y="52.2296296">Final</tspan>
                 </text>
-                <text id="9/29-7pm" font-family="Arial-BoldMT, Arial" font-size="10" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="230.098633" y="97">9/29 7pm</tspan>
+                <text id="9/22-8pm" font-family="Arial-BoldMT, Arial" font-size="9.7898736" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="225.263653" y="95.3051852">9/22 8pm</tspan>
+                </text>
+            </g>
+            <g id="Game-1" transform="translate(0.000000, 563.925926)">
+                <use id="Rectangle-1" stroke="#FFFFFF" mask="url(#mask-16)" stroke-width="2" fill="#182127" xlink:href="#path-15"></use>
+                <polygon id="Triangle-1" fill="#F6A623" transform="translate(195.307978, 74.014402) rotate(-90.000000) translate(-195.307978, -74.014402) " points="195.307978 69.6010688 199.681954 78.4277354 190.934003 78.4277354"></polygon>
+                <path d="M199.987888,0.49037037 L199.987888,97.5837037" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                <text id="Honeybadgers" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.8246314" y="32.6918519">Honeybadgers</tspan>
+                </text>
+                <text id="3" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="212.652259" y="32.6918519">3</tspan>
+                </text>
+                <text id="15" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="207.479831" y="78.7866667">15</tspan>
+                </text>
+                <text id="Knights-of-Columus" font-family="Arial-BoldMT, Arial" font-size="17.6217725" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.8246314" y="78.7674074">Knights of Columus</tspan>
+                </text>
+                <text id="Final" font-family="Arial-BoldMT, Arial" font-size="14.6848104" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="232.508303" y="52.2296296">Final</tspan>
+                </text>
+                <text id="11/17-7pm" font-family="Arial-BoldMT, Arial" font-size="9.7898736" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="222.541322" y="95.3051852">11/17 7pm</tspan>
+                </text>
+            </g>
+            <g id="Game-1" transform="translate(0.000000, 451.140741)">
+                <use id="Rectangle-1" stroke="#FFFFFF" mask="url(#mask-18)" stroke-width="2" fill="#182127" xlink:href="#path-17"></use>
+                <polygon id="Triangle-1" fill="#F6A623" transform="translate(195.307978, 74.014402) rotate(-90.000000) translate(-195.307978, -74.014402) " points="195.307978 69.6010688 199.681954 78.4277354 190.934003 78.4277354"></polygon>
+                <path d="M199.987888,0.49037037 L199.987888,97.5837037" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                <text id="Honeybadgers" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.8246314" y="32.6918519">Honeybadgers</tspan>
+                </text>
+                <text id="19" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="207.479831" y="32.6918519">19</tspan>
+                </text>
+                <text id="20" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="207.479831" y="78.7866667">20</tspan>
+                </text>
+                <text id="Knights-of-Columbus" font-family="Arial-BoldMT, Arial" font-size="16.6427851" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.8246314" y="78.7481481">Knights of Columbus</tspan>
+                </text>
+                <text id="Final" font-family="Arial-BoldMT, Arial" font-size="14.6848104" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="232.508303" y="52.2296296">Final</tspan>
+                </text>
+                <text id="11/10-7pm" font-family="Arial-BoldMT, Arial" font-size="9.7898736" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="222.541322" y="95.3051852">11/10 7pm</tspan>
+                </text>
+            </g>
+            <g id="Game-1" transform="translate(0.000000, 338.355556)">
+                <use id="Rectangle-1" stroke="#FFFFFF" mask="url(#mask-20)" stroke-width="2" fill="#182127" xlink:href="#path-19"></use>
+                <polygon id="Triangle-1" fill="#F6A623" transform="translate(195.307978, 74.014402) rotate(-90.000000) translate(-195.307978, -74.014402) " points="195.307978 69.6010688 199.681954 78.4277354 190.934003 78.4277354"></polygon>
+                <path d="M199.987888,0.49037037 L199.987888,97.5837037" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                <text id="Wildwood-Visitors" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.8246314" y="32.6918519">Wildwood Visitors</tspan>
+                </text>
+                <text id="9" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="212.652259" y="32.6918519">9</tspan>
+                </text>
+                <text id="13" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="207.479831" y="78.7866667">13</tspan>
+                </text>
+                <text id="Honeybadgers" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.8246314" y="78.7866667">Honeybadgers</tspan>
+                </text>
+                <text id="Final" font-family="Arial-BoldMT, Arial" font-size="14.6848104" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="232.508303" y="52.2296296">Final</tspan>
+                </text>
+                <text id="10/27-7pm" font-family="Arial-BoldMT, Arial" font-size="9.7898736" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="222.541322" y="95.3051852">10/27 7pm</tspan>
+                </text>
+            </g>
+            <g id="Game-1" transform="translate(0.000000, 225.570370)">
+                <use id="Rectangle-1" stroke="#FFFFFF" mask="url(#mask-22)" stroke-width="2" fill="#182127" xlink:href="#path-21"></use>
+                <polygon id="Triangle-1" fill="#F6A623" transform="translate(195.307978, 74.014402) rotate(-90.000000) translate(-195.307978, -74.014402) " points="195.307978 69.6010688 199.681954 78.4277354 190.934003 78.4277354"></polygon>
+                <path d="M199.987888,0.49037037 L199.987888,97.5837037" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                <text id="Wildwood-Visitors" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.8246314" y="32.6918519">Wildwood Visitors</tspan>
+                </text>
+                <text id="10" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="207.479831" y="32.6918519">10</tspan>
+                </text>
+                <text id="14" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="207.479831" y="78.7866667">14</tspan>
+                </text>
+                <text id="Honeybadgers" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.8246314" y="78.7866667">Honeybadgers</tspan>
+                </text>
+                <text id="Final" font-family="Arial-BoldMT, Arial" font-size="14.6848104" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="232.508303" y="52.2296296">Final</tspan>
+                </text>
+                <text id="10/20-7pm" font-family="Arial-BoldMT, Arial" font-size="9.7898736" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="222.541322" y="95.3051852">10/20 7pm</tspan>
+                </text>
+            </g>
+            <g id="Game-1" transform="translate(0.000000, 112.785185)">
+                <use id="Rectangle-1" stroke="#FFFFFF" mask="url(#mask-24)" stroke-width="2" fill="#182127" xlink:href="#path-23"></use>
+                <polygon id="Triangle-1" fill="#F6A623" transform="translate(195.307978, 26.938847) rotate(-90.000000) translate(-195.307978, -26.938847) " points="195.307978 22.5255132 199.681954 31.3521799 190.934003 31.3521799"></polygon>
+                <path d="M199.987888,0.49037037 L199.987888,97.5837037" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                <text id="Knights-of-Columbus" font-family="Arial-BoldMT, Arial" font-size="16.6427851" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.8246314" y="32.6533333">Knights of Columbus</tspan>
+                </text>
+                <text id="22" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="207.479831" y="32.6918519">22</tspan>
+                </text>
+                <text id="8" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="212.652259" y="78.7866667">8</tspan>
+                </text>
+                <text id="Honeybadgers" font-family="Arial-BoldMT, Arial" font-size="18.6007598" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.8246314" y="78.7866667">Honeybadgers</tspan>
+                </text>
+                <text id="Final" font-family="Arial-BoldMT, Arial" font-size="14.6848104" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="232.508303" y="52.2296296">Final</tspan>
+                </text>
+                <text id="9/29-7pm" font-family="Arial-BoldMT, Arial" font-size="9.7898736" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="225.263653" y="95.3051852">9/29 7pm</tspan>
                 </text>
             </g>
         </g>
