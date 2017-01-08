@@ -336,3 +336,8 @@ div[class*="databaseTable_import_wrap"] {
     font-size: 1.5em;
   }
 }*/
+
+
+tr td:nth-child(1) {
+	position: fixed;
+}
