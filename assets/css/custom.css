@@ -260,7 +260,7 @@ div[class*="databaseTable_import_wrap"] {
   top: 4em;
   right: 0px;
   color: #12527E;
-  border-left: 0.08em solid #7EB535;
+  border-left: 0.08em solid #12527E;
   transition: padding linear 60ms;
 }
 .databaseTable_UI_scrollLeft:before {
@@ -276,7 +276,7 @@ div[class*="databaseTable_import_wrap"] {
   color: #12527E;
   top: 4em;
   left: 0px;
-  border-right: 0.08em solid #7EB535;
+  border-right: 0.08em solid #12527E;
   transition: padding linear 60ms;
 }
 .databaseTable_UI_scrollRight:hover:before  {
